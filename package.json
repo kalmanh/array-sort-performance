@@ -1,0 +1,16 @@
+{
+  "name": "random-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kalman Hazins <kalmanh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "^2.1.3",
+    "random-words": "0.0.1"
+  }
+}
